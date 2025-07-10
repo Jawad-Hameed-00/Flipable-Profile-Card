@@ -6,11 +6,7 @@ A beautiful and interactive **Flippable Profile Card** Android UI built using Je
 
 ## 📽️ Preview
 
-<a href="https://www.youtube.com/watch?v=xFgR6fGflnc" target="_blank">
-  <img src="https://img.youtube.com/vi/xFgR6fGflnc/0.jpg" alt="Flippable Profile Card Video" width="560" />
-</a>
-
-> ▶️ [Watch the demo on YouTube](https://www.youtube.com/watch?v=xFgR6fGflnc)
+![Demo](preview/demo.gif)
 
 ---
 
